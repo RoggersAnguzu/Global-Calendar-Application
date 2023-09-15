@@ -49,7 +49,7 @@ This project relies on the following dependencies:
 ## .NET Framework
 Windows Forms
 Contributing
-Contributions to this project are welcome. If you'd like to contribute, please follow our Contributing Guidelines.
+Contributions to this project are welcome. If you'd like to contribute, please follow the  Contributing Guidelines.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
