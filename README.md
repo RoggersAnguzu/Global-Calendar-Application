@@ -7,7 +7,7 @@ The Global Calendar Application is a C# Windows Forms project that demonstrates 
 The Global Calendar Application showcases the following features:
 
 - Displaying date-related information using various calendar systems.
-- Converting numeric months to their corresponding names.
+- Converting numeric months to their corresponding names..
 - Learning about different calendar systems, including the Gregorian, Hebrew, and Taiwan calendars.
 
 - 
