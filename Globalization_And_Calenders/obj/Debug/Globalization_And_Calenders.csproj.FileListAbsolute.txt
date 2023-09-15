@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\bin\Debug\Globalization_And_Calenders.exe.config
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\bin\Debug\Globalization_And_Calenders.exe
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\bin\Debug\Globalization_And_Calenders.pdb
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.Form1.resources
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.Properties.Resources.resources
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.exe
+C:\Users\Admin\source\repos\Globalization_And_Calenders\Globalization_And_Calenders\obj\Debug\Globalization_And_Calenders.pdb
