@@ -46,10 +46,10 @@ this.label4.Text = month_num_to_name(x);
 ## Dependencies
 This project relies on the following dependencies:
 
-## .NET Framework
+## .NET Framework.
 Windows Forms
 Contributing
 Contributions to this project are welcome. If you'd like to contribute, please follow the  Contributing Guidelines.
 
-License
+License.
 This project is licensed under the MIT License. See the LICENSE file for details.
